@@ -1,4 +1,4 @@
-track_id, type, traveled_d, avg_speed
+track_id,type,traveled_d,avg_speed
 1, Car,48.85,9.770344
 2, Motorcycle,98.09,19.839417
 3, Motorcycle,63.8,18.228752
@@ -78,7 +78,7 @@ track_id, type, traveled_d, avg_speed
 77, Taxi,295.46,21.796327
 78, Taxi,206.77,19.692781
 79, Taxi,215.55,26.574647
-80, Taxi,222.0,22.323695
+80, Taxi,222,22.323695
 81, Taxi,194.4,21.600212
 82, Taxi,150.55,22.39556
 83, Taxi,74.22,12.145817
@@ -103,7 +103,7 @@ track_id, type, traveled_d, avg_speed
 102, Motorcycle,463.17,31.942672
 103, Motorcycle,57.62,23.048464
 104, Car,196.09,14.118836
-105, Taxi,235.0,30.000579
+105, Taxi,235,30.000579
 106, Medium Vehicle,502.33,31.726205
 107, Car,236.72,25.668102
 108, Motorcycle,79.34,13.472079
@@ -205,7 +205,7 @@ track_id, type, traveled_d, avg_speed
 204, Taxi,104.8,19.856184
 205, Motorcycle,349.92,14.996362
 206, Motorcycle,28.03,9.891223
-207, Motorcycle,214.0,14.05811
+207, Motorcycle,214,14.05811
 208, Motorcycle,480.74,48.07366
 209, Motorcycle,194.49,12.918358
 210, Motorcycle,215.19,14.13631
@@ -283,7 +283,7 @@ track_id, type, traveled_d, avg_speed
 282, Car,401.47,21.766252
 283, Car,216.92,14.78977
 284, Motorcycle,120.73,18.574441
-285, Medium Vehicle,492.0,40.624114
+285, Medium Vehicle,492,40.624114
 286, Motorcycle,458.01,40.812929
 287, Car,55.18,23.098429
 288, Motorcycle,463.81,47.98007
@@ -353,7 +353,7 @@ track_id, type, traveled_d, avg_speed
 352, Taxi,481.49,45.614878
 353, Taxi,482.03,44.955871
 354, Car,104.21,13.592362
-355, Car,485.0,21.55559
+355, Car,485,21.55559
 356, Car,205.92,17.081275
 357, Car,487.2,40.789075
 358, Motorcycle,238.55,31.806234
@@ -412,7 +412,7 @@ track_id, type, traveled_d, avg_speed
 411, Car,347.29,12.731779
 412, Motorcycle,211.41,20.794684
 413, Car,349.29,12.752963
-414, Car,73.0,0.538726
+414, Car,73,0.538726
 415, Car,351.28,13.283761
 416, Car,200.19,13.546905
 417, Motorcycle,213.55,25.971998
@@ -601,7 +601,7 @@ track_id, type, traveled_d, avg_speed
 600, Motorcycle,200.15,9.531054
 601, Taxi,265.07,10.843793
 602, Car,204.5,11.396316
-603, Taxi,352.0,19.79992
+603, Taxi,352,19.79992
 604, Car,346.94,12.196989
 605, Car,345.36,11.663273
 606, Taxi,354.62,19.168692
@@ -695,7 +695,7 @@ track_id, type, traveled_d, avg_speed
 694, Motorcycle,347.5,23.426738
 695, Taxi,359.37,12.75872
 696, Motorcycle,266.13,23.030164
-697, Taxi,317.0,11.88764
+697, Taxi,317,11.88764
 698, Taxi,348.65,12.939651
 699, Car,24.1,14.457705
 700, Taxi,322.18,12.338888
@@ -729,7 +729,7 @@ track_id, type, traveled_d, avg_speed
 728, Car,37.83,2.960491
 729, Car,479.44,21.203867
 730, Motorcycle,485.23,40.249191
-731, Car,449.0,21.157206
+731, Car,449,21.157206
 732, Car,450.58,38.620751
 733, Motorcycle,412.9,21.114271
 734, Car,451.06,21.088488
@@ -906,7 +906,7 @@ track_id, type, traveled_d, avg_speed
 905, Motorcycle,165.12,37.152372
 906, Car,118.6,29.24505
 907, Motorcycle,37.66,9.969678
-908, Motorcycle,138.0,36.529856
+908, Motorcycle,138,36.529856
 909, Car,101.94,28.670845
 910, Motorcycle,59.54,19.485427
 911, Car,94.9,28.470766
@@ -920,4 +920,4 @@ track_id, type, traveled_d, avg_speed
 919, Motorcycle,19.5,9.234518
 920, Car,48.97,24.486209
 921, Motorcycle,46.68,30.007124
-922, Car,35.0,23.335533
+922, Car,35,23.335533
