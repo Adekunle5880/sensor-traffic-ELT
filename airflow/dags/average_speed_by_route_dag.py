@@ -1,11 +1,11 @@
-# peak_traffic_times_by_hour_dag.py
+# average_speed_by_route_dag.py
 from airflow import DAG
 from airflow.operators.python_operator import PythonOperator
 from datetime import datetime
 import os
 
 def run_dbt_model():
-    os.system('dbt run --models peak_traffic_times_by_hour')
+    os.system('dbt run --models average_speed_by_route')
 
 default_args = {
     'owner': 'airflow',
@@ -17,9 +17,9 @@ default_args = {
 }
 
 dag = DAG(
-    'peak_traffic_times_by_hour_dag',
+    'average_speed_by_route_dag',
     default_args=default_args,
-    description='A DAG to run DBT model for peak traffic times by hour',
+    description='A DAG to run DBT model for average speed by route',
     schedule_interval=None,
 )
 
